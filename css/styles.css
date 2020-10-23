@@ -25,13 +25,11 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
-  object-position: center;
-  display: center; }
+  object-position: center; }
 
 .carousel-item > img {
   object-fit: none;
   object-position: center;
-  display: center;
   position: absolute;
   top: 0;
   left: 0;
