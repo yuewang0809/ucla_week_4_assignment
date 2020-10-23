@@ -10,6 +10,16 @@ body {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.btn-primary {
+  color: #fff;
+  background-color: #ffbfc5;
+  border-color: #ffbfc5; }
+
+.btn-secondary {
+  color: #fff;
+  background-color: #ffbfc5;
+  border-color: #ffbfc5; }
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 /* Carousel base class */
